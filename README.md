@@ -5,8 +5,7 @@ type: resource
 ---
 
 ### Git commit....?
-
-These resources will refresh your memory for all those nutty commands. 
+<img src="https://after-school-assets.s3.amazonaws.com/git-hamster.jpg" width="300px" align="right" hspace="10"> These resources will refresh your memory for all those nutty commands. 
 
 1 [Try Git](https://try.github.io/levels/1/challenges/1) - 15 minute Git tutorial, straight from the horse's mouth.
 
