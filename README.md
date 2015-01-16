@@ -11,7 +11,7 @@ type: resource
 
 2 [This book rocks](http://git-scm.com/book/en/v2) - All the Git documentation you could want.
 
-3 [Git v. Github](http://www.jahya.net/blog/?2013-05-git-vs-github) - A blog post what the difference is, anyway.
+3 [Git v. Github](http://www.jahya.net/blog/?2013-05-git-vs-github) - A blog post about what the difference is, anyway.
 
 4 [Git Commands](http://marklodato.github.io/visual-git-guide/index-en.html#basic-usage) - A visual Git reference sheet.
 
