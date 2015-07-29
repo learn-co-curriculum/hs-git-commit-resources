@@ -1,8 +1,4 @@
----
-tags: git, kids, resources
-languages: git
-type: resource
----
+
 
 ### Git commit....?
 <img src="https://after-school-assets.s3.amazonaws.com/git-hamster.jpg" width="300px" align="right" hspace="10"> These resources will refresh your memory for all those nutty commands. 
