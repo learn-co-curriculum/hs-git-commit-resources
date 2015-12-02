@@ -12,3 +12,5 @@
 4 [Git Commands](http://marklodato.github.io/visual-git-guide/index-en.html#basic-usage) - A visual Git reference sheet.
 
 5 [Danny made a cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d1cf504f2) - Thanks, Danny!
+
+<a href='https://learn.co/lessons/hs-git-commit-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
