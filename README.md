@@ -13,4 +13,4 @@
 
 5 [Danny made a cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d1cf504f2) - Thanks, Danny!
 
-<a href='https://learn.co/lessons/hs-git-commit-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-git-commit-resources' title='Git commit....?'>Git commit....?</a> on Learn.co and start learning to code for free.</p>
